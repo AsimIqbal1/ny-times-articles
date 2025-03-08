@@ -21,7 +21,7 @@ A React application that displays the NY Times Most Popular Articles using the N
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AsimIqbal1/ny-times-articles.git
 cd ny-times-articles
 ```
 
@@ -34,7 +34,7 @@ npm install
 3. Create a `.env` file in the root directory and add your NY Times API key:
 
 ```bash
-REACT_APP_NY_TIMES_API_KEY=your_api_key_here
+REACT_APP_NYT_APP_KEY=your_api_key_here
 ```
 
 ## Running the Application
@@ -58,7 +58,7 @@ npm test
 To run tests with coverage report:
 
 ```bash
-npm test -- --coverage
+npm run test:coverage
 ```
 
 ## Project Structure
@@ -87,16 +87,7 @@ src/
 
 ## API Documentation
 
-This project uses the NY Times Most Popular Articles API. For more information, visit:
-[NY Times API Documentation](https://developer.nytimes.com/docs/most-popular-product/1/overview)
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+This project uses the NY Times Most Popular Articles API.
 
 ## License
 
