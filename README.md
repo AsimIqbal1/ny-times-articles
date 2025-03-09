@@ -1,5 +1,4 @@
 # NY Times Most Popular Articles
-
 A React application that displays the NY Times Most Popular Articles using the NY Times API. The application follows a master/detail pattern, showing a list of articles that can be clicked to view more details.
 
 ## Features
@@ -10,6 +9,12 @@ A React application that displays the NY Times Most Popular Articles using the N
 - TypeScript support
 - Comprehensive test coverage
 - Modern React practices using hooks and functional components
+
+## Demo
+<img width="1439" alt="Screenshot 2025-03-10 at 1 41 02 AM" src="https://github.com/user-attachments/assets/08f6d30a-a410-4804-9ff0-39d4452de3a9" />
+<img width="1440" alt="Screenshot 2025-03-10 at 1 41 50 AM" src="https://github.com/user-attachments/assets/20b3b8db-656c-4215-8d36-983159896c47" />
+
+
 
 ## Prerequisites
 
